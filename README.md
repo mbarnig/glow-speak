@@ -43,6 +43,8 @@ The following languages/voices are supported:
     * it\_riccardo\_fasol
 * Korean
     * ko\_kss
+* Luxembourgish
+    * lb\_marylux
 * Dutch
     * nl\_rdh
 * Russian
