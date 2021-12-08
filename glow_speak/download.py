@@ -19,6 +19,7 @@ LANG_VOICES = {
     "hu": "hu_diana_majlinger",
     "it": "it_riccardo_fasol",
     "ko": "ko_kss",
+    "lb": "lb_marylux",
     "nl": "nl_rdh",
     "ru": "ru_nikolaev",
     "sv": "sv_talesyntese",
