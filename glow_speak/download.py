@@ -144,7 +144,7 @@ def main():
     parser.add_argument("voice", nargs="+", help="Voice name(s) to download")
     parser.add_argument(
         "--url-format",
-        default="http://github.com/rhasspy/glow-speak/releases/download/v1.0/{voice}.tar.gz",
+        default="https://github.com/mbarnig/glow-speak/releases/download/v1.0-beta/{voice}.tar.gz",
     )
     parser.add_argument(
         "--voices-dir",
